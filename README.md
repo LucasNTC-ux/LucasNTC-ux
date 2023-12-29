@@ -1,4 +1,4 @@
-<h1> Hi! My name is Lucas. </h1>
+<!--<h1> Hi! My name is Lucas. </h1>
 
 <div>
   <a href="https://github.com/LucasNTC-ux">
@@ -24,3 +24,16 @@
   <a href="https://www.instagram.com/_lucasmth1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-matheus-bueno-valim-269807238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
+-->
+<div>
+  <a href="https://github.com/MatheusBatist4">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusBatist4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBatist4&layout=compact&langs_count=16&theme=dracula"/>
+<div>
+  
+  ![Snake animation](https://github.com/MatheusBatist4/MatheusBatist4/blob/output/github-contribution-grid-snake.svg)
+- 👋 Hi, I’m @MatheusBatist4
+- 👀 I’m interested in back and front end
+- 🌱 I’m currently learning front end
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
