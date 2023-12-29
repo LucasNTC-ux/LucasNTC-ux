@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/lucas-matheus-bueno-valim-269807238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
 -->
-![Snake animation](https://github.com/MatheusBatist4/MatheusBatist4/blob/output/github-contribution-grid-snake.svg)
+
 <h1> Hi! My name is Lucas. </h1>
 <div>
   <a href="https://github.com/LucasNTC-ux">
@@ -32,3 +32,8 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
+  
+  ![Snake animation](https://github.com/MatheusBatist4/MatheusBatist4/blob/output/github-contribution-grid-snake.svg)
+
+
