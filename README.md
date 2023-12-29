@@ -17,7 +17,7 @@
   </div>
 -->
 
-<h1 aling="center"> Hi! My name is Lucas. </h1>
+<h1> Hi! My name is Lucas. </h1>
 <div>
   <a href="https://github.com/LucasNTC-ux">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasNTC-ux&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -34,5 +34,3 @@
 
   
   ![Snake animation](https://github.com/MatheusBatist4/MatheusBatist4/blob/output/github-contribution-grid-snake.svg)
-
-
