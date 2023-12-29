@@ -1,5 +1,5 @@
-<!--<h1> Hi! My name is Lucas. </h1>
-
+<h1> Hi! My name is Lucas. </h1>
+<!--
 <div>
   <a href="https://github.com/LucasNTC-ux">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=LucasNTC-ux&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
